@@ -1,0 +1,87 @@
+[
+    {
+        "date": "\u0429\u043e\u0434\u043d\u044f",
+        "time": "11:32",
+        "media": "media\\1.mp4",
+        "audio": true,
+        "loop": false
+    },
+    {
+        "date": "\u0429\u043e\u0434\u043d\u044f",
+        "time": "12:00",
+        "media": "media\\1.mp4",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "11:33",
+        "media": "media\\default.mp4",
+        "audio": true,
+        "loop": false
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:01",
+        "media": "media\\\u043b\u043d\u0443.jpg",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:02",
+        "media": "media\\1.mp4",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:03",
+        "media": "media\\default.mp4",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:05",
+        "media": "media\\default.mp4.mkv",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:04",
+        "media": "media\\default.mp4",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:05",
+        "media": "media\\default.mp4",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:06",
+        "media": "media\\default.mp4",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:07",
+        "media": "media\\default.mp4",
+        "audio": true,
+        "loop": true
+    },
+    {
+        "date": "2026-09-28",
+        "time": "12:08",
+        "media": "media\\default.mp4",
+        "audio": true,
+        "loop": true
+    }
+    
+]
